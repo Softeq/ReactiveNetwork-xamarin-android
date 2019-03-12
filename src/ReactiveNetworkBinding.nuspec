@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>ReactiveNetworkBinding</id>
-    <version>3.0.2</version>
+    <version>3.0.2-rx2</version>
     <title>ReactiveNetwork for Xamarin.Android</title>
     <authors>Softeq Development Corp.</authors>
     <owners>Softeq Development Corp.</owners>
@@ -13,5 +13,8 @@
     <copyright>Copyright 2019 Softeq Development Corp.</copyright>
     <tags>ReactiveNetwork internet connection android xamarin binding softeq library</tags>
     <releaseNotes>First release</releaseNotes>
+    <dependencies>
+        <dependency id="Naxam.RxJava2.Droid" version="2.1.2" />
+    </dependencies>
   </metadata>
 </package>
