@@ -22,3 +22,7 @@ NOTE: Do not add "android.jar" as a reference jar.  It will be added automatical
 based on the Target Framework selected.
 
 Set the build action for these jars in the properties page to "ReferenceJar".
+
+------------------------------
+
+Maven repo: https://search.maven.org/search?q=a:reactivenetwork-rx2

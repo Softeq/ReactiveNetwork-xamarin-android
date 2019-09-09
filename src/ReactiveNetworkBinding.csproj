@@ -52,7 +52,7 @@
     <TransformFile Include="Transforms\EnumMethods.xml" />
   </ItemGroup>
   <ItemGroup>
-    <LibraryProjectZip Include="Jars\library-release.aar" />
+    <LibraryProjectZip Include="Jars\reactivenetwork-rx2-3.0.6.aar" />
   </ItemGroup>
   <ItemGroup>
       <PackageReference Include="Naxam.RxJava2.Droid">
@@ -60,7 +60,7 @@
       </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
