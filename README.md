@@ -1,6 +1,6 @@
-# ReactiveNetwork
+# ReactiveNetwork for Xamarin.Android
 
-[![Build Status](https://dev.azure.com/SofteqDevelopment/Xamarin.Binding.Libraries/_apis/build/status/ReactiveNetwork%20Android%20Library/ReactiveNetwork-dev?branchName=master)](https://dev.azure.com/SofteqDevelopment/Xamarin.Binding.Libraries/_build/latest?definitionId=423&branchName=master) [![NuGet Badge](https://buildstats.info/nuget/ReactiveNetworkBinding)](https://www.nuget.org/packages/ReachabilityBindings/)
+[![Build Status](https://dev.azure.com/SofteqDevelopment/Xamarin.Binding.Libraries/_apis/build/status/ReactiveNetwork%20Android%20Library/ReactiveNetwork-dev?branchName=master)](https://dev.azure.com/SofteqDevelopment/Xamarin.Binding.Libraries/_build/latest?definitionId=423&branchName=master) [![NuGet Badge](https://buildstats.info/nuget/ReactiveNetworkBinding)](https://www.nuget.org/packages/ReactiveNetworkBinding/)
 
 Xamarin binding library for [ReactiveNetwork Android library](https://github.com/pwittchen/ReactiveNetwork).
 
