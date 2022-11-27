@@ -1,12 +1,8 @@
-# ReactiveNetwork-xamarin-android
+# ReactiveNetwork
 
-Xamarin binding library for ReactiveNetwork Android library https://github.com/pwittchen/ReactiveNetwork
+[![Build Status](https://dev.azure.com/SofteqDevelopment/Xamarin.Binding.Libraries/_apis/build/status/ReactiveNetwork%20Android%20Library/ReactiveNetwork-dev?branchName=master)](https://dev.azure.com/SofteqDevelopment/Xamarin.Binding.Libraries/_build/latest?definitionId=423&branchName=master) [![NuGet Badge](https://buildstats.info/nuget/ReactiveNetworkBinding)](https://www.nuget.org/packages/ReachabilityBindings/)
 
-## About
-
-This project is maintained by Softeq Development Corp.
-
-We specialize in developing mobile applications using Xamarin and native technology stack.
+Xamarin binding library for [ReactiveNetwork Android library](https://github.com/pwittchen/ReactiveNetwork).
 
 ## Installation
 
@@ -15,6 +11,12 @@ NuGet:
 ```
 Install-Package ReactiveNetworkBinding
 ```
+
+## About
+
+This project is maintained by [Softeq Development Corp.](https://www.softeq.com/)
+
+We specialize in developing mobile applications using Xamarin and native technology stack.
 
 ## License
 
